@@ -1,8 +1,12 @@
 # Seungho (Samuel) Lee
 
-Data scientist working on market data. I build the pipelines that ingest it, the checks that catch it drifting, and the analysis on top. Previously 4.5 years at The Tie on crypto and prediction-market data.
+Data scientist. I build data systems for on-chain and social data, then use them to answer the questions clients act on: is this partnership worth it, who gamed the airdrop, where the audience really is. 4.5 years at The Tie working with 5+ token and protocol teams.
 
 [Website](https://samuel-shlee.com/?ref=github) · [Resume](https://samuel-shlee.com/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/samuellee19/) · [slee19@cmc.edu](mailto:slee19@cmc.edu)
+
+| 5+ | 23M+ | 5,203 | 20% |
+|:-:|:-:|:-:|:-:|
+| token and protocol clients advised | hourly candlesticks decoded from on-chain events | partnership announcements in a published study | of airdrop wallets flagged as Sybil gaming |
 
 ### Selected work
 
