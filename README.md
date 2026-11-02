@@ -2,8 +2,6 @@
 
 I build data systems for on-chain and social data, then use them to answer the questions clients act on: is this partnership worth it, who gamed the airdrop, where the audience really is. 4.5 years as a data scientist at The Tie, working with 5+ token and protocol teams.
 
-[Website](https://samuel-shlee.com/?ref=github) · [Resume](https://samuel-shlee.com/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/samuellee19/) · [slee19@cmc.edu](mailto:slee19@cmc.edu)
-
 ### At The Tie
 
 - **Pipelines and data quality.** Decoded Polymarket and Opinion Trade smart-contract events into 23M+ hourly candlesticks across ~1M markets, and designed a three-tier data-validation framework for the data platform.
