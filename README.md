@@ -1,4 +1,4 @@
-# Seungho (Samuel) Lee
+# Sam Lee
 
 I build data systems for on-chain and social data, then use them to answer the questions clients act on: is this partnership worth it, who gamed the airdrop, where the audience really is. 4.5 years as a data scientist at The Tie, working with 5+ token and protocol teams.
 
